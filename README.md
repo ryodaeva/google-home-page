@@ -1,4 +1,8 @@
 **Redo of the google home page.**
 
-	HTML: use html semantic elements
-	CSS : use flexbox , CSS Variables , button hover : border transparent
+	HTML: use HTML semantic elements
+	CSS : use flexbox , CSS Variables 
+
+**Problem solved**
+
+	button hover : border transparent
