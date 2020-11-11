@@ -6,3 +6,7 @@
 **Problem solved**
 
 	button hover : border transparent
+
+[Preview page](https://ryodaeva.github.io/google-home-page/)
+
+
