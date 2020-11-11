@@ -9,4 +9,6 @@
 
 [Preview page](https://ryodaeva.github.io/google-home-page/)
 
+[Screenshot](https://ryodaeva.github.io/google-home-page/screenshot/google-home-page-screenshot.png)
+
 ![Screenshot](https://ryodaeva.github.io/google-home-page/screenshot/google-home-page-screenshot.png)
